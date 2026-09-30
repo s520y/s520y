@@ -1,4 +1,8 @@
-## Hi there 👋
+## sean yang
+- first-year in information systems @ cmu
+- scottylabs + cmimc programming
+- on the road to fullstack...
+
 
 <!--
 **s520y/s520y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
